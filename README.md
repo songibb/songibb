@@ -7,12 +7,10 @@
 중고거래 웹사이트(23.07.19~23.09.14) : <https://github.com/songibb/lemonmarket>
 
 
-<p>
-  <h4><a href="https://github.com/songibb/babpasaMES">매일 공부 기록(TIL)</a></h4>
-</p>
-<p>
-   <h4><a href="https://github.com/songibb/lemonmarket">자바의 정석 필기 및 뉴렉처 강의 기록</a></h4>
-</p>
+
+<h4><a href="https://github.com/songibb/babpasaMES">냉동볶음밥 생산관리시스템(23.07.19~23.09.14)</a></h4>
+<h4><a href="https://github.com/songibb/lemonmarket">중고거래 웹사이트(23.07.19~23.09.14)</a></h4>
+
 
 ### Skill
 <div align = center>
