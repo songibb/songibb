@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-//Java
+<!--Java-->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-//Spring
+<!--Spring-->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
-//HTML
+<!--HTML-->
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
-//CSS
+<!--CSS-->
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
-//JavaScript
+<!--JavaScript-->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-//jQuery
+<!--jQuery-->
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 
-//Oracle
+<!--Oracle-->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 
 //Eclipse
