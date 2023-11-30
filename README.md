@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-## Projects
-<!--Projects-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=5998F7&random=true&width=435&lines=current+projects" alt="Typing SVG" /></a>
+<!--Project-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151350&random=false&width=435&lines=Project" alt="Typing SVG" /></a>
   <p>
     <h3><a href="https://github.com/songibb/babpasaMES">냉동볶음밥 생산관리시스템(23.07.19~23.09.14)</a></h3>
   </p>
