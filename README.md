@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+## Projects
+<!--Projects-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=5998F7&random=true&width=435&lines=current+projects" alt="Typing SVG" /></a>
+  <p>
+    <h3><a href="https://github.com/songibb/babpasaMES">냉동볶음밥 생산관리시스템(23.07.19~23.09.14)</a></h3>
+  </p>
+  <p>
+     <h3><a href="https://github.com/songibb/lemonmarket">중고거래 웹사이트(23.06.09~23.06.22)</a></h3> 
+  </p>
+  <br>
+  
+<hr>
+
 <!--기술스택-->
 <div align = center>
   <p>
@@ -14,6 +27,7 @@
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
   </p>
 </div>
+
 <hr>
 
 <!--방문자수-->
