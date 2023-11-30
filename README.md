@@ -3,12 +3,12 @@
 </div>
 
 ### Project
---
+---
 - [냉동볶음밥 생산관리시스템(23.07.19~23.09.14)](https://github.com/songibb/babpasaMES)
 - [중고거래 웹사이트(23.07.19~23.09.14)](https://github.com/songibb/lemonmarket)
 
 ### Skill
---
+---
 <div align = center>
   <p>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -24,7 +24,7 @@
 </div>
 
 ### Hits
---
+---
 <div align = center>
   <p>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongibb%2Fhit-counter&count_bg=%23606468&title_bg=%231C1C1D&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
