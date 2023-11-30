@@ -4,8 +4,8 @@
 
 ### Project
 ---
-- [냉동볶음밥 생산관리시스템(23.07.19~23.09.14)](https://github.com/songibb/babpasaMES)
-- [중고거래 웹사이트(23.07.19~23.09.14)](https://github.com/songibb/lemonmarket)
+- 냉동볶음밥 생산관리시스템(23.07.19~23.09.14) : <https://github.com/songibb/babpasaMES>
+- 중고거래 웹사이트(23.07.19~23.09.14) : <https://github.com/songibb/lemonmarket>
 
 ### Skill
 ---
