@@ -2,6 +2,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=395983&center=true&vCenter=true&random=false&width=435&lines=Junior+Developer" alt="Typing SVG" /></a>
 </div>
 
+Project
+--
 <!--Project-->
 <div>
   <ul>
@@ -10,9 +12,9 @@
   </ul>
 </div>
 
-<hr>
-
 <!--기술스택-->
+Stack
+--
 <div align = center>
   <p>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
