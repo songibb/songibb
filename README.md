@@ -3,15 +3,14 @@
 </div>
 
 <!--Project-->
-<div align = center>
+<div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=151350&random=false&width=435&lines=Project" alt="Typing SVG"/></a>
   <ul>
     <li><h3><a href="https://github.com/songibb/babpasaMES">냉동볶음밥 생산관리시스템(23.07.19~23.09.14)</a></h3></li>
     <li><h3><a href="https://github.com/songibb/lemonmarket">중고거래 웹사이트(23.06.09~23.06.22)</a></h3></li>
   </ul>
-  
-  
 </div>
+
 <hr>
 
 <!--기술스택-->
