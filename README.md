@@ -2,17 +2,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=395983&center=true&vCenter=true&random=false&width=435&lines=Junior+Developer" alt="Typing SVG" /></a>
 </div>
 
-### Project
+## Project
 냉동볶음밥 생산관리시스템(23.07.19~23.09.14) : <https://github.com/songibb/babpasaMES>
 중고거래 웹사이트(23.07.19~23.09.14) : <https://github.com/songibb/lemonmarket>
-
-
 
 <h4><a href="https://github.com/songibb/babpasaMES">냉동볶음밥 생산관리시스템(23.07.19~23.09.14)</a></h4>
 <h4><a href="https://github.com/songibb/lemonmarket">중고거래 웹사이트(23.07.19~23.09.14)</a></h4>
 
 
-### Skill
+## Skill
 <div align = center>
   <p>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
